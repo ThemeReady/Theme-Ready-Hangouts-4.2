@@ -5324,6 +5324,9 @@
     <public type="style" name="Theme.Hangout" id="0x7f0b0230" />
     <public type="style" name="Theme.Hangout.IncomingRing" id="0x7f0b0231" />
     <public type="style" name="Theme.BabelPhotoView" id="0x7f0b0232" />
+    <public type="style" name="TextAppearance.Medium" id="0x7f0b0233" />
+    <public type="style" name="TextAppearance.Small" id="0x7f0b0234" />
+    <public type="style" name="Themeable.Hangouts" id="0x7f0b0235" />
     <public type="style" name="SystemMessageListItemViewStyle" id="0x7f0b0225" />
     <public type="style" name="Platform.V11.AppCompat" id="0x7f0b0196" />
     <public type="style" name="Platform.V11.AppCompat.Light" id="0x7f0b0197" />
